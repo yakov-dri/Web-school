@@ -1,2 +1,2 @@
 # Web-school
-Learning js
+Learning js - at webschool with teacher Eli Drai 
